@@ -17,3 +17,7 @@ Great Repository Of Grudges is a place where you can store your Grudges for diff
 - create a pull request
 - wait for merge
 - proclaim another grudge
+
+## Web
+Read-only version of this repository is available at
+https://grudge-from-the-grog.vercel.app/
